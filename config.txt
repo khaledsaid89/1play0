@@ -1,0 +1,6 @@
+token=NjA3NTYwOTMxMDk4MjMwNzg0.XUlg8g.x33FJzZ8q9u5uAsgbDNPB0lkRRY
+owner=597131539234422807
+prefix=1
+game=Type | 1play by Khaled
+stayinchannel=true
+songinstatus=false
